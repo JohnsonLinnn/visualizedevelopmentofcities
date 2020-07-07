@@ -13,6 +13,7 @@
   "license": "SEE LICENSE IN <filename>",
   "dependencies": {
     "cheap-ruler": "^3.0.1",
+    "lineclip": "^1.1.5",
     "mapbox-gl": "^1.11.0"
   }
 }
